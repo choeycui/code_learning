@@ -39,3 +39,13 @@ for key in test.keys():
     test[key] = {}
 test['a']['aa'] = 1
 print(test)
+
+
+# To get multiple index slice of a dataframe, use tuple as the first arg for loc function
+
+
+
+
+
+
+
