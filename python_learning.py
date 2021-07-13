@@ -42,7 +42,7 @@ print(test)
 
 
 # To get multiple index slice of a dataframe, use tuple as the first arg for loc function
-
+# https://blog.csdn.net/zou_gr/article/details/108798212
 
 
 
