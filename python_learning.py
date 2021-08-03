@@ -46,6 +46,8 @@ print(test)
 
 
 
-
+'''
+Python 3 'class a(object):' is equal to 'class a:'
+'''
 
 
