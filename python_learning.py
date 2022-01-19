@@ -50,4 +50,6 @@ print(test)
 Python 3 'class a(object):' is equal to 'class a:'
 '''
 
-
+'''
+for distance unit calculation, use epsg=3857 so as the meter(s) is available to measure the distance between 2 points.
+'''
